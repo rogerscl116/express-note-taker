@@ -23,11 +23,12 @@
         
   ## Installation
    - Clone this repository to use the application on your local machine.
-   - Enter `npm install` in the terminal to install the necessary dependencies.
+   - Enter `npm init` in the terminal to initialize a new package.json file.
+   - Enter `npm install` to install the necessary dependencies.
    
   ## Usage
   - Enter `node server.js` in the terminal to run application on localhost server PORT 3001.
-  - Open browser and type `http://localhost:3001/` into the address bar to use application.
+  - Open browser and type `http://localhost:3001/` in the address bar to use application.
 
   ## Contributing
   Charity Rogers
