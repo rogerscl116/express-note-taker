@@ -7,11 +7,13 @@
   An application that uses an Express.js back end and will save and retrieve note data from a JSON file
 
   ### Screenshot
-  ![Express Note Taker Screenshot]()
+  ![Express Note Taker Screenshot 1](./public/assets/images/note-taker-screenshot1.jpg)
+
+  ![Express Note Taker Screenshot 2](./public/assets/images/note-taker-screenshot2.jpg)
 
   ### Walkthrough Video
 
-  ![Express Note Taker Walkthrough Video]()
+  ![Express Note Taker Walkthrough Video](./public/assets/videos/express-note-taker.gif)
 
   ## Table of Contents
   * [Installation](#installation)
@@ -25,7 +27,7 @@
    
   ## Usage
   - Enter `node server.js` in the terminal to run application on localhost server PORT 3001.
-  - Open browser and type `http://localhost:3001/` to run application on your local machine. 
+  - Open browser and type `http://localhost:3001/` into the address bar to use application.
 
   ## Contributing
   Charity Rogers
