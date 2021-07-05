@@ -6,7 +6,7 @@
   ## Description
   An application that uses an Express.js back end and will save and retrieve note data from a JSON file
 
-  ### Screenshot
+  ### Screenshots
   ![Express Note Taker Screenshot 1](./public/assets/images/note-taker-screenshot1.jpg)
 
   ![Express Note Taker Screenshot 2](./public/assets/images/note-taker-screenshot2.jpg)
