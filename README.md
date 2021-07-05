@@ -25,7 +25,7 @@
    
   ## Usage
   - Enter `node server.js` in the terminal to run application on localhost server PORT 3001.
-  - Open browser and type `http://localhost:3001/` to run application on your local machine. 
+  - Open browser and type `http://localhost:3001/` to use application.
 
   ## Contributing
   Charity Rogers
