@@ -5,6 +5,8 @@
 
   ## Description
   An application that uses an Express.js back end and will save and retrieve note data from a JSON file
+  
+  - Deployed application: https://express-note-taker1987.herokuapp.com/
 
   ### Screenshots
   ![Express Note Taker Screenshot 1](./public/assets/images/note-taker-screenshot1.jpg)
